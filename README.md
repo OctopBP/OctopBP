@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="124" src="https://raw.githubusercontent.com/jarvis394/jarvis394/master/github_logo.png" alt="Logo" />
-</p>
 <p align="center" style="margin: -10px 0 30px">
   <a href="https://github.com/octopbp" target="_blank" style='margin-right:10px'>
     <img width="22" height="22" align="center" src="https://unpkg.com/simple-icons@v4/icons/github.svg" alt="github" />
