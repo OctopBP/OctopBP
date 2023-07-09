@@ -1,3 +1,9 @@
+<p>
+Hey, I'm Boris!
+<br/>
+I am a Unity developer and sometimes do some web stuff
+</p>
+
 <p style="margin: -10px 0 30px">
   <a href="https://github.com/octopbp" target="_blank" style='margin-right:10px'>
     <img width="22" height="22" align="center" src="https://unpkg.com/simple-icons@v4/icons/github.svg" alt="github" />
@@ -7,8 +13,6 @@
     <img width="22" height="22" align="center" src="https://simpleicons.org/icons/telegram.svg" alt="email" />
   </a>
 </p>
-
-<p>Hi, I'm Boris!</p>
 
 <h3>Things I code with</h3>
 
