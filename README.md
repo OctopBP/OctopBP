@@ -6,10 +6,6 @@
   <a href="https://t.me/octopbp" target="_blank" style='margin-right:10px'>
     <img width="22" height="22" align="center" src="https://simpleicons.org/icons/telegram.svg" alt="email" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/kaktusao" target="_blank" style='margin-right:10px'>
-    <img width="22" height="22" align="center" src="https://simpleicons.org/icons/twitter.svg" alt="email" />
-  </a>
 </p>
 
 <p>Hi, I'm Boris!</p>
