@@ -4,16 +4,6 @@ Hey, I'm Boris!
 I am a Unity developer. Also doing some staff in web and ios
 </p>
 
-<p style="margin: -10px 0 30px">
-  <a href="https://github.com/octopbp" target="_blank" style='margin-right:10px'>
-    <img width="22" height="22" align="center" src="https://unpkg.com/simple-icons@v4/icons/github.svg" alt="github" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/octopbp" target="_blank" style='margin-right:10px'>
-    <img width="22" height="22" align="center" src="https://simpleicons.org/icons/telegram.svg" alt="email" />
-  </a>
-</p>
-
 <h4>Things I code with</h4>
 <p>
   <img src="https://img.shields.io/badge/C%23-38108D?logo=csharp&logoColor=white" />
@@ -33,4 +23,15 @@ I am a Unity developer. Also doing some staff in web and ios
   <br/>
   <img src="https://img.shields.io/badge/Notion-FFFFFF?logo=notion&logoColor=black" />
   <img src="https://img.shields.io/badge/Photoshop-081E34?logo=adobephotoshop&logoColor=white" />
+</p>
+
+Write me
+<p style="margin: -10px 0 30px">
+  <a href="https://t.me/octopbp" target="_blank" style='margin-right:10px'>
+    <img width="22" height="22" align="center" src="https://simpleicons.org/icons/telegram.svg" alt="telegram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/octop/" target="_blank" style='margin-right:10px'>
+    <img width="22" height="22" align="center" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" alt="linkedin" />
+  </a>
 </p>
