@@ -8,6 +8,7 @@ I am a Unity developer. Also doing some staff in web and ios
 <p>
   <img src="https://img.shields.io/badge/C%23-38108D?logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-E33C26?logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
 </p>
